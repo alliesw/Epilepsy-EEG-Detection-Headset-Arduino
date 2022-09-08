@@ -4,7 +4,7 @@ Purpose: Develop an improved CNN-based Transformer model and low rank learning a
 
 > Create a Sequential Data Model from the trained models? 
 
-Load dataset: [need data]
+Load dataset: [DEAP database]
 Utilize SVM; Pinball loss functions to find optimal within-class compactness and between class dispersion. 
 
 
