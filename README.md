@@ -1,10 +1,20 @@
-Purpose: Develop a low rank learning algorithm for EEG signal classification - Noise Robust Model  
+Purpose: Develop an improved CNN-based Transformer model and low rank learning algorithm for EEG signal classification 
+> This model uses multi-head attention instead of recurrently layer or convultional layer to extract information for motor imaginary EEG classification 
+> Noise Robust 
 
-Identification of the pattern recognition technique to efficiently differentiate EEG epileptic data from the EEG data of various conditions. 
+> Create a Sequential Data Model from the trained models? 
 
 Load dataset: [need data]
 Utilize SVM; Pinball loss functions to find optimal within-class compactness and between class dispersion. 
 
+
+Stage 1: Decomposition
+EEG Signals > Imperical Mode Decomp 
+
+
+Stage 2: Feature Extraction and Selection 
+
+Stage 3: Classifier Construction 
 
 
 
