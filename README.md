@@ -1,10 +1,13 @@
 # Wireless-EEG-Headset
-IOT based wireless EEG transmission system 
 
-Biomedical Field: Measuring brain activity for Epilepsy - EEG 
-Description: Read data from a hacked MindFlex EEG headset connected via USB
+*Improve/Update Arduino Brain Library*
+
+Project: *Improve/Update Arduino Brain Library* 
+Purpose: Read data from a hacked MindFlex EEG headset connected via USB
+> Measuring brain activity for Epilepsy - EEG 
 
 < Project 1: Hack a MindFlex EEG Headset using Arduino >
+#Update 1: 
 < Updated for 4.0.1 Processing > 
 
 Hardware Components:
