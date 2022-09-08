@@ -23,7 +23,7 @@ Hardware Steps:
 Since you're using this with a hacked MindFlex, you'll need the Arduino Brain Library installed and running on your Arduino. 
 
 Software Steps: 
-1. Download the Arduino Brain library (ZIP file):
+1. Download the Arduino Brain library (ZIP file): https://github.com/kitschpatrol/Brain/releases
 2. Open the Arduino IDE and click to the "Sketch" menu and then Include Library > Manage Libraries.
 Scroll through the list of libraries > select the Brain library ZIP you downloaded > install lib 
 
@@ -37,4 +37,6 @@ https://processing.org/download/
 
 Download the brain grapher code here:
 https://github.com/kitschpatrol/BrainGrapher
-Main Source: https://github.com/kitschpatrol/BrainGrapher/blob/master/BrainGrapher/BrainGrapher.pde
+
+GUI Processing Lib:
+https://www.sojamo.de/libraries/controlP5/
