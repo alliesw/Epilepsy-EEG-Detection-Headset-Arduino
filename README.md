@@ -29,16 +29,14 @@ Software Steps:
 2. Open the Arduino IDE and click to the "Sketch" menu and then Include Library > Manage Libraries.
 Scroll through the list of libraries > select the Brain library ZIP you downloaded > install lib 
 
-
 Disconnect the RX pin wire > upload the brain serial out example code > run code while 
 the Arduino is connected to your computer > plug the RX pin back in > turn on the headset.
 
 Open the serial monitor > get csv data from the headset
 
 Download processing 4.0.1 code here: 
-
 https://processing.org/download/ 
 
-Download the main brain grapher code here:
-
-https://github.com/kitschpatrol/BrainGrapher/blob/master/BrainGrapher/BrainGrapher.pde
+Download the brain grapher code here:
+https://github.com/kitschpatrol/BrainGrapher
+Main Source: https://github.com/kitschpatrol/BrainGrapher/blob/master/BrainGrapher/BrainGrapher.pde
