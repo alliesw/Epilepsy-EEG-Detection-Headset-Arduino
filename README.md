@@ -2,7 +2,7 @@
 IOT based wireless EEG transmission system 
 
 Biomedical Field: Measuring brain activity for Epilepsy - EEG 
-Description: System accurately measure brain activity and provides detailed readings of your brainwaves, heart rate, attention, pressure level
+Description: Read data from a hacked MindFlex EEG headset connected via USB
 
 < Project 1: Hack a MindFlex EEG Headset using Arduino >
 < Updated for 4.0.1 Processing > 
