@@ -2,6 +2,12 @@ Purpose: Develop a low rank learning algorithm for EEG signal classification - N
 
 Identification of the pattern recognition technique to efficiently differentiate EEG epileptic data from the EEG data of various conditions. 
 
+Load dataset: [need data]
+Utilize SVM; Pinball loss functions to find optimal within-class compactness and between class dispersion. 
+
+
+
+
 < Project 1: Hack a MindFlex EEG Headset using Arduino: Read data from a hacked MindFlex EEG headset connected via USB >
 # Improve/Update/Add Functionality to Arduino Brain Library 
 #Update 1: < Updated for 4.0.1 Processing > 
