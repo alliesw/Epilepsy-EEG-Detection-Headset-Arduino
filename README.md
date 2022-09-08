@@ -1,14 +1,9 @@
-# Wireless-EEG-Headset
+# Improve/Update/Add Functionality to Arduino Brain Library 
 
-*Improve/Update Arduino Brain Library*
+Purpose: Measuring brain activity for Epilepsy - EEG 
 
-Project: *Improve/Update Arduino Brain Library* 
-Purpose: Read data from a hacked MindFlex EEG headset connected via USB
-> Measuring brain activity for Epilepsy - EEG 
-
-< Project 1: Hack a MindFlex EEG Headset using Arduino >
-#Update 1: 
-< Updated for 4.0.1 Processing > 
+< Project 1: Hack a MindFlex EEG Headset using Arduino: Read data from a hacked MindFlex EEG headset connected via USB >
+#Update 1: < Updated for 4.0.1 Processing > 
 
 Hardware Components:
 1. Mindflex EEG headset (must have a nerosky brand control board inside to run code)
