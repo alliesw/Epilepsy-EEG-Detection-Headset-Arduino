@@ -1,6 +1,6 @@
+Purpose: Develop a low rank learning algorithm for EEG signal classification - Noise Robust Model  
 
-Purpose: Measuring brain activity for Epilepsy - EEG 
-Needed: Identification of the pattern recognition technique to efficiently differentiate EEG epileptic data from the EEG data of various conditions.
+Identification of the pattern recognition technique to efficiently differentiate EEG epileptic data from the EEG data of various conditions. 
 
 < Project 1: Hack a MindFlex EEG Headset using Arduino: Read data from a hacked MindFlex EEG headset connected via USB >
 # Improve/Update/Add Functionality to Arduino Brain Library 
